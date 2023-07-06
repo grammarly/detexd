@@ -19,3 +19,7 @@ Run `founta_basile_comparison.ipynb` to reproduce results for models comparison 
 Run `country_bias.ipynb` to reproduce country bias analysis.
 
 Run `compare_hatebert.ipynb` to reproduce hatebert models comparison.
+
+## Citation Information
+
+DeTexD: A Benchmark Dataset for Delicate Text Detection. Serhii Yavnyi, Oleksii Sliusarenko, Jade Razzaghi, Yichen Mo, Knar Hovakimyan, Artem Chernodub // [Accepted for publication at The 7th Workshop on Online Abuse and Harms (WOAH) at ACL 2023 in Toronto](https://www.workshopononlineabuse.com/)
