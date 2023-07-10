@@ -22,4 +22,17 @@ Run `compare_hatebert.ipynb` to reproduce hatebert models comparison.
 
 ## Citation Information
 
-DeTexD: A Benchmark Dataset for Delicate Text Detection. Serhii Yavnyi, Oleksii Sliusarenko, Jade Razzaghi, Yichen Mo, Knar Hovakimyan, Artem Chernodub // [Accepted for publication at The 7th Workshop on Online Abuse and Harms (WOAH) at ACL 2023 in Toronto](https://www.workshopononlineabuse.com/)
+```
+@inproceedings{chernodub-etal-2023-detexd,
+    title = "{D}e{T}ex{D}: A Benchmark Dataset for Delicate Text Detection",
+    author = "Yavnyi, Serhii and Sliusarenko, Oleksii  and Razzaghi, Jade  and Mo, Yichen  and Hovakimyan, Knar and Chernodub, Artem",
+    booktitle = "The 7th Workshop on Online Abuse and Harms (WOAH)",
+    month = jul,
+    year = "2023",
+    address = "Toronto, Canada",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.woah-1.2",
+    pages = "14--28",
+    abstract = "Over the past few years, much research has been conducted to identify and regulate toxic language. However, few studies have addressed a broader range of sensitive texts that are not necessarily overtly toxic. In this paper, we introduce and define a new category of sensitive text called {``}delicate text.{''} We provide the taxonomy of delicate text and present a detailed annotation scheme. We annotate DeTexD, the first benchmark dataset for delicate text detection. The significance of the difference in the definitions is highlighted by the relative performance deltas between models trained each definitions and corpora and evaluated on the other. We make publicly available the DeTexD Benchmark dataset, annotation guidelines, and baseline model for delicate text detection.",
+}
+```
