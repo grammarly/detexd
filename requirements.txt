@@ -6,3 +6,5 @@ tqdm
 pandas
 plotly
 kaleido
+jupyter
+matplotlib
